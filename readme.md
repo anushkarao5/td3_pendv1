@@ -52,7 +52,6 @@ Main Notes:
 
 # Hyperparameters: 
 - Most hyperparamters chosen using: https://arxiv.org/pdf/1802.09477
-- **Generated this table using Claude**
 
 
 | Hyperparameter | Value | Description | Why chosen |
